@@ -1,2 +1,2 @@
 # MinecraftVuforia
-Aplicación móvil de realidad aumentada basada en el videojuego Minecarft
+Aplicación móvil de realidad aumentada usando Vuforia basada en el videojuego Minecraft
